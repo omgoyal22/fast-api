@@ -5,7 +5,7 @@ from uuid import uuid4
 from pymongo import MongoClient
 from bson import ObjectId
 
-# FastAPI app
+# FastAPI ap
 app = FastAPI()
 
 # MongoDB connection
